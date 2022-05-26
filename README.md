@@ -1,4 +1,4 @@
-# MD-101: Managing Modern Desktops-test
+# MD-101: Managing Modern Desktops-test-1
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
